@@ -1,0 +1,12 @@
+title: Deflexiones 
+email: mgarosblasco@gmail.com
+description: >- 
+  Reflexiones sobre ingeniería civil y estructural.
+baseurl: "\blog" 
+url: "https://blascom.github.io"
+github_username:  blascogarosm
+
+
+theme: minima
+plugins:
+  - jekyll-feed
